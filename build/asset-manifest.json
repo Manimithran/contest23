@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32a4e680.css",
+    "main.js": "/static/js/main.962a3484.js",
+    "static/media/hero.png": "/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/about.png": "/static/media/about.0250db8cfc181becb0f6.png",
+    "static/media/fake news.jpg": "/static/media/fake news.707764b46e8d6aa135f5.jpg",
+    "static/media/law.jpg": "/static/media/law.b179b445db9805cc3cca.jpg",
+    "index.html": "/index.html",
+    "main.32a4e680.css.map": "/static/css/main.32a4e680.css.map",
+    "main.962a3484.js.map": "/static/js/main.962a3484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a4e680.css",
+    "static/js/main.962a3484.js"
+  ]
+}
